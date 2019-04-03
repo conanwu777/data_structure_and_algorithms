@@ -1,0 +1,4 @@
+n = length of compressed file
+
+O(n) time (assuming length of words in dict are bounded above by constant)
+O(n) space

@@ -1,0 +1,3 @@
+n = number of artworks
+O(Log(n)) time
+O(1) space

@@ -1,0 +1,4 @@
+n = length of bible
+m = length of jesus
+O(n + m) time (assuming hash have negligible amount of collisions, otherwise time can be up to O(n * m))
+O(1) space

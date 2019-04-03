@@ -1,0 +1,4 @@
+n = number of words in dict
+m = max length of words
+O(m^2 * n) time
+O(m^2) space (can me made into O(m), but since in this case we are considering short strings, i.e. words mainly I assume m^2 is fine)

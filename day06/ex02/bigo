@@ -1,0 +1,4 @@
+n = number of games
+
+O(2^n)
+O(n) space

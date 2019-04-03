@@ -1,0 +1,5 @@
+n = number of nodes
+e = number of edges (in case of bounded degree, e should be bounded by n)
+
+O(e * n^2) time
+O(n) space

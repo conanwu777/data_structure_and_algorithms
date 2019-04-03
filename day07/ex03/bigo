@@ -1,0 +1,5 @@
+n = number of nodes
+e = number of edges
+
+O(e * n) time
+O(n) space 

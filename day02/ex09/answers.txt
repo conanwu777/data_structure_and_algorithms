@@ -1,0 +1,5 @@
+1. quick sort
+2. count sort
+3. quick sort (iterative)
+4. merge sort (break array up accodring to current order)
+5. bubble sort

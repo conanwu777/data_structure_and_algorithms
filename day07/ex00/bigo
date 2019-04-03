@@ -1,0 +1,4 @@
+n = number of items to sort
+
+O(n * log(n)) time
+O(1) space

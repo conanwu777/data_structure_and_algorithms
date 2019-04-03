@@ -1,0 +1,4 @@
+n = number of locations
+
+O(n^2) time
+O(1) space

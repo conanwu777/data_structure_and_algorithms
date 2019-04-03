@@ -1,0 +1,5 @@
+t = number of table
+n = number of people
+
+O(t^n) time
+O(t * n) space

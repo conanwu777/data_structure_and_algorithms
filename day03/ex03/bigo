@@ -1,0 +1,5 @@
+n = number of monkeys
+O(n) time ()
+O(Log(n)) space
+
+recursive depth first search

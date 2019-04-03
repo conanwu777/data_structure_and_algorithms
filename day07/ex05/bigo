@@ -1,0 +1,20 @@
+a = size of alphabet
+n = length of text to decrypt
+
+decrypt:
+	Theoratical worst:
+		O(a! * n) time (actually much faster due to frequency distributation in English language)
+	O(n + a) space
+
+make trie:
+	d = number of words in dict
+	l = length of words
+	O(d * l) time
+	O(d * l) space (all used in output, O(1) additional space)
+
+look up a word in trie:
+	l = length of word
+	k = number of '?'
+	a = size of alphabet
+	O(a^k + l) time
+	O(l) space

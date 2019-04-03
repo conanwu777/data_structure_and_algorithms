@@ -1,0 +1,4 @@
+n = number of stones
+s = number of distinct sizes
+O(s^2 + n) time
+O(n) space (can be easily made O(s))

@@ -1,0 +1,4 @@
+n = number of hotspots
+
+O(n) time
+O(1) space

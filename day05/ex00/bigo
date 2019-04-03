@@ -1,0 +1,4 @@
+n = sizeof pizza
+
+O(n * 2^n) time
+O(n) space

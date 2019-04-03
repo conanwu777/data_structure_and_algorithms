@@ -1,0 +1,4 @@
+n = length of list
+k = number of elements with non-null random pointer
+O(n + n * k) time
+O(n) space

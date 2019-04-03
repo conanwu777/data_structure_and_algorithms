@@ -1,0 +1,5 @@
+n = length of word
+d = number to delete
+
+O(n * k + 2^k) time
+O(n * k) space

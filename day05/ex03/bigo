@@ -1,0 +1,5 @@
+n = island size
+d = Manhattan diameter of island (depth of recursion)
+
+O(n) time
+O(d) space

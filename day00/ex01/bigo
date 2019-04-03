@@ -1,0 +1,5 @@
+n = number of artworks
+O(nLogn) avg time
+O(n^2) worst time
+O(Log(n)) avg space
+O(n) worst space

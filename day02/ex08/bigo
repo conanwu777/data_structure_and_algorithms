@@ -1,0 +1,4 @@
+r = ram
+n = number of elements to sort
+O((r * log(n)) * n) time
+O(1) space (more specifically r)

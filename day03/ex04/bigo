@@ -1,0 +1,9 @@
+n = total number of existing monkeys
+O(n) time
+O(Log(n)) space
+recursive depth-first for size
+
+However, if we are given size of the tree (which we should):
+O(Log(n)) time
+O(1) space
+no recurse

@@ -1,0 +1,5 @@
+s = number of floors
+n = number of punches
+
+O(s^n) time
+O(n) space

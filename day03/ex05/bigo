@@ -1,0 +1,12 @@
+make trie:
+	n = number of words
+	l = length of words
+	O(n * l) time
+	O(n * l) space (all used in output, O(1) additional space)
+
+understand:
+	l = length of word
+	k = number of '?'
+	a = size of alphabet
+	O(s^k + l) time
+	O(l) space

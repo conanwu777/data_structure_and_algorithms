@@ -1,0 +1,9 @@
+n = length of the array
+
+sort:
+O(n) time
+O(n) space
+
+find:
+O(log(n)) time
+O(log(n)) space

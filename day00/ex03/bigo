@@ -1,0 +1,4 @@
+n = number of artworks
+k = capacity of dict
+O(n / k) time
+O(n + k) space

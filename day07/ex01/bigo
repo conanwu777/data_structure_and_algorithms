@@ -1,0 +1,4 @@
+n = number of elements in the array
+
+O(n) time
+O(n) space

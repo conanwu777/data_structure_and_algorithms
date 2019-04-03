@@ -1,0 +1,4 @@
+n = length of word
+
+O(n!) time
+O(n) space

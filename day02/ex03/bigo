@@ -1,0 +1,3 @@
+n = number of elements to sort
+O(n * log(n)) time
+O(n) space

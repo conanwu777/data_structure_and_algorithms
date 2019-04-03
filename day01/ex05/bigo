@@ -1,0 +1,7 @@
+push:
+O(1) time
+O(1) space
+
+pop:
+O(1) time
+O(1) space

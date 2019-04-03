@@ -1,0 +1,5 @@
+n = length of bible
+k = max length of dict words
+m = number of words in dict
+O(k * n) time 
+O(m) space
